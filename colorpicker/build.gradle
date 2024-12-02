@@ -4,14 +4,14 @@ ext {
     bintrayRepo = 'Hong'
     bintrayName = 'colorpicker'
 
-    publishedGroupId = 'com.github.duanhong169'
+    publishedGroupId = 'com.github.cstet23'
     artifact = 'colorpicker'
 
     libraryDescription = 'A `ColorPicker` for android'
-    libraryVersion = '1.1.6'
+    libraryVersion = '1.1.7'
 
-    gitUrl = 'https://github.com/duanhong169/ColorPicker.git'
-    siteUrl = 'https://github.com/duanhong169/ColorPicker'
+    gitUrl = 'https://github.com/cstet23/ColorPicker.git'
+    siteUrl = 'https://github.com/cstet23/ColorPicker'
 
     licenseName = 'Apache License 2.0'
     licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
